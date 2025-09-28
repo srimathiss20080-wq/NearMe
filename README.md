@@ -125,19 +125,13 @@ sivaraj.html
         
     </body>
 </html>
-
-
+```
 ## OUTPUT
-c:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot (21).png
-c:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot (22).png
-c:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot (23).png
-c:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot (24).png
-c:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot (25).png
-c:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot (26).png
-
-
-
-
-
+![alt text](map.html.png)
+![alt text](<Screenshot (22).png>)
+![alt text](<Screenshot (23).png>)
+![alt text](<Screenshot (24).png>)
+![alt text](<Screenshot (25).png>)
+![alt text](<Screenshot (26).png>)
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
