@@ -127,7 +127,7 @@ sivaraj.html
 </html>
 ```
 ## OUTPUT
-![alt text](map.html.png)
+![alt text](image-1.png)
 ![alt text](<Screenshot (22).png>)
 ![alt text](<Screenshot (23).png>)
 ![alt text](<Screenshot (24).png>)
